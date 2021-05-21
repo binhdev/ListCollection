@@ -1,0 +1,18 @@
+#Triangle 1
+6
+7
+8
+#Rectangle 1
+8
+9
+#Circle 1
+9
+#Triangle 2
+6
+9
+8
+#Rectangle 2
+9
+9
+#Circle 2
+9
